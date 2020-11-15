@@ -21,6 +21,8 @@ int main()
 	printf("%p \n", other);
 	fflush(stdout);
     input();
+    printf("You failed to get into the secret function.");
+    fflush(stdout);
     return 0;
 }
 
